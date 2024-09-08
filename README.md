@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Gustavo Henrique
 
 - 🖥️ Estudando Sistemas de Informação - PUCRS
+- 😄 Pronouns: ele/dele
 
   <div>
   <a href="https://github.com/Gustao06-design">
