@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gustavo Henrique
 
-- 🖥️ Estudando Sistemas de Informação na PUCRS
+- 🖥️ Estudando Sistemas de Informação - PUCRS
 
   <div>
   <a href="https://github.com/Gustao06-design">
