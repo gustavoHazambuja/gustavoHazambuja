@@ -10,6 +10,10 @@ Tenho experiência no desenvolvimento de aplicações backend utilizando Java, S
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gu-SpringBoot" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Gu-Python" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gu-FastAPI" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
   <img align="center" alt="Gu-Postgres" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Gu-Docker" height="30" width="40"
